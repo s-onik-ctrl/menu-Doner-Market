@@ -95,7 +95,7 @@ else:
 
 # --- 5. ФУТЕР ---
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray;'>📍 Ул. Примерная, 10 | 🕒 09:00 - 22:00</p>", unsafe_allow_html=True) This is your Python Playground 🐍
+st.markdown("<p style='text-align: center; color: gray;'>📍 Ул. Примерная, 10 | 🕒 09:00 - 22:00</p>", unsafe_allow_html=True) This is your Python Playground 
 
 # Right-click code on any website to run it here
 # Or, write your own Python code below
