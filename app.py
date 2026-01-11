@@ -5,7 +5,7 @@ from io import BytesIO
 
 # --- 1. НАСТРОЙКИ (ЗАМЕНИТЕ ССЫЛКУ НИЖЕ) ---
 # Ссылка должна быть с доступом "Все, у кого есть ссылка - Читатель"
-SHEET_URL = "https://docs.google.com/spreadsheets/d/18_UvUWeE3YyaTGGWuh-7jpvhksocqaOHWGWHxVTPCOM/edit?gid=0#gid=0
+SHEET_URL = "https://docs.google.com/spreadsheets/d/18_UvUWeE3YyaTGGWuh-7jpvhksocqaOHWGWHxVTPCOM/edit?usp=sharing"
 
 # --- 2. ФУНКЦИЯ ЗАГРУЗКИ ДАННЫХ ---
 def load_data(url):
